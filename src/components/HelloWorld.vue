@@ -1,4 +1,5 @@
 <template>
+  <title>Vuejs Todolist</title>
   <div class="todo">
     <h1>My To-Do List</h1>
     <form @submit.prevent="addItem">
